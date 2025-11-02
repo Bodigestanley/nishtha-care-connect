@@ -64,7 +64,7 @@ This project is built with:
 
 Simply open [vs code](https://nishtha.dev/projects/94949db4-75a2-430a-b0ea-6fd3958f3681) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my cyber security project?
 
 Yes, you can!
 
